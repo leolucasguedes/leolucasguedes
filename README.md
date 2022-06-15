@@ -6,7 +6,7 @@
 - 🇧🇷 Brazilian
 - 🎓 Full-Stack Developer by Driven Education
 - 🎓 Graphic Designer formed by RedZero
-- 📘 5th period of Management at Estacio University (5/8)
+- 📘 5th period of Management (5/8)
 - 🌎 Fluent in three languages
 
 ## 📝 Technologies and languages
