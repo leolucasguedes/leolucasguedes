@@ -23,4 +23,4 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobeindesign)&nbsp;
 
 
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolucasguedes&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/leolucasguedes/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolucasguedes&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/leolucasguedes/github-readme-stats)
