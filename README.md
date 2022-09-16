@@ -58,6 +58,6 @@
 
 <div align="center">
 
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leolucasguedes&show_icons=true&layout=compact&theme=radical)
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolucasguedes&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/leolucasguedes/github-readme-stats)
- ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leolucasguedes&show_icons=true&layout=compact&theme=radical)
 </div>
