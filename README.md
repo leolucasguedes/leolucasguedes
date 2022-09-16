@@ -1,11 +1,12 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lucas-guedes-4759aa210/)](https://www.linkedin.com/in/leonardo-lucas-guedes-4759aa210/)  ![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white&link/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lucas-guedes-4759aa210/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lucas0611@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/1de82326-e168-4347-8da2-0655cc0cbc91.svg)](https://wakatime.com/@1de82326-e168-4347-8da2-0655cc0cbc91)
 <img align="right" width="400" height="250" alt="ed" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS"/>
 ### Hi there  👋
 - 🙋‍♂️ I'm Leonardo, but you can call me Leo                                                                 
 - 🇧🇷 Brazilian
 - 🎓 Full-Stack Developer by Driven Education
-- 🎓 Graphic Designer formed by RedZero
+- 🎓 Graphic Designer by RedZero
 - 📘 5th period of Management (5/8)
 - 🌎 Fluent in three languages
 
@@ -58,4 +59,5 @@
 <div align="center">
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolucasguedes&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/leolucasguedes/github-readme-stats)
+ ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leolucasguedes&show_icons=true&layout=compact&theme=radical)
 </div>
