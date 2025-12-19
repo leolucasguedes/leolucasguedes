@@ -5,11 +5,10 @@
 ### Hi there  👋
 - 🙋‍♂️ I'm Leonardo, but you can call me Leo                                                                 
 - 🇧🇷 Brazilian
-- 🎓 Full-Stack Developer
-- 🎓 Graduated by Driven Education
+- 🎓 Full-Stack Developer by Driven Education
+- 🎓 Bachelor’s Degree in Business Administration by Estácio
 - 🎓 Graphic Designer by RedZero
-- 📘 3th period of Analysis and Systems Development (3/5)
-- 📘 7th period of Management (7/8)
+- 📘 3th period of Analysis and Systems Development (4/5)
 - 🌎 Fluent in four languages
 
 ## 📝 Technologies and languages
@@ -20,6 +19,7 @@
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
