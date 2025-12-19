@@ -8,7 +8,7 @@
 - 🎓 Full-Stack Developer by Driven Education
 - 🎓 Bachelor’s Degree in Business Administration by Estácio
 - 🎓 Graphic Designer by RedZero
-- 📘 3th period of Analysis and Systems Development (4/5)
+- 📘 5th period of Analysis and Systems Development (5/5)
 - 🌎 Fluent in four languages
 
 ## 📝 Technologies and languages
